@@ -8,9 +8,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="objc" value="false" />
-      <option name="OC_DECLARATION" value="false" />
-      <option name="OC_EXPRESSION" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
@@ -25,10 +22,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="objc" value="true" />
-      <option name="OC_DECLARATION" value="false" />
-      <option name="OC_STATEMENT" value="true" />
-      <option name="OC_EXPRESSION" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
@@ -43,10 +36,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="objc" value="false" />
-      <option name="OC_DECLARATION" value="false" />
-      <option name="OC_STATEMENT" value="true" />
-      <option name="OC_EXPRESSION" value="true" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
