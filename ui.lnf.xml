@@ -1,0 +1,10 @@
+<application>
+  <component name="UISettings">
+    <option name="FONT_FACE" value="Adobe Garamond Pro" />
+    <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
+    <option name="EDITOR_TAB_PLACEMENT" value="0" />
+    <option name="DEFAULT_AUTOSCROLL_TO_SOURCE" value="true" />
+    <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+  </component>
+</application>

@@ -1,0 +1,130 @@
+<keymap version="1" name="Xcode copy" parent="Xcode">
+  <action id="AppCode.OpenInXcodeAction">
+    <keyboard-shortcut first-keystroke="ctrl meta x" />
+  </action>
+  <action id="ChangesView.Commit">
+    <keyboard-shortcut first-keystroke="meta alt c" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="f5" />
+    <keyboard-shortcut first-keystroke="alt escape" />
+    <keyboard-shortcut first-keystroke="escape" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
+  <action id="CompareDirs" />
+  <action id="CompareJars" />
+  <action id="CompareTwoFiles" />
+  <action id="Console.Hibernate.Execute" />
+  <action id="Console.Jdbc.Execute" />
+  <action id="Console.Jpa.Execute" />
+  <action id="Console.TableResult.NextPage" />
+  <action id="Console.TableResult.PreviousPage" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="meta u" />
+    <keyboard-shortcut first-keystroke="shift f9" />
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="Diff.UpdatedFiles" />
+  <action id="EditorDuplicate" />
+  <action id="EditorEscape" />
+  <action id="EditorSplitLine" />
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="meta add" />
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl 6" />
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="ctrl meta f" />
+  </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift meta alt n" />
+  </action>
+  <action id="GotoTest">
+    <keyboard-shortcut first-keystroke="ctrl meta t" />
+  </action>
+  <action id="HideActiveWindow" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift meta f12" />
+    <keyboard-shortcut first-keystroke="shift meta y" />
+  </action>
+  <action id="Images.ShowThumbnails" />
+  <action id="IntroduceConstant" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+    <keyboard-shortcut first-keystroke="meta alt close_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+    <keyboard-shortcut first-keystroke="meta alt open_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt up" />
+  </action>
+  <action id="NextOccurence" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
+  <action id="OCIntroduceConstant" />
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="OpenXcodeProjectAction" />
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift alt tab" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
+  <action id="PreviousOccurence" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="ctrl meta e" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+  </action>
+  <action id="RunConfiguration">
+    <keyboard-shortcut first-keystroke="ctrl meta c" />
+  </action>
+  <action id="SafeDelete">
+    <keyboard-shortcut first-keystroke="meta delete" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl meta s" />
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="ToggleFullScreen" />
+  <action id="Vcs.UpdateProject" />
+  <action id="ViewSource" />
+  <action id="com.intellij.execution.testframework.sm.runner.ui.statistics.ShowTestProxy">
+    <keyboard-shortcut first-keystroke="ctrl meta alt t" />
+  </action>
+  <action id="tasks.close">
+    <keyboard-shortcut first-keystroke="ctrl meta m" />
+  </action>
+  <action id="tasks.goto">
+    <keyboard-shortcut first-keystroke="shift alt n" />
+    <keyboard-shortcut first-keystroke="ctrl meta n" />
+  </action>
+</keymap>

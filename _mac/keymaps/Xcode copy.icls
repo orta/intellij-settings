@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap version="1" name="Xcode copy" parent="Xcode">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="control SPACE" />
+    <keyboard-shortcut first-keystroke="F5" />
+    <keyboard-shortcut first-keystroke="alt ESCAPE" />
+    <keyboard-shortcut first-keystroke="ESCAPE" />
+  </action>
+  <action id="Console.Hibernate.Execute" />
+  <action id="Console.Jdbc.Execute" />
+  <action id="Console.Jpa.Execute" />
+  <action id="Console.TableResult.NextPage" />
+  <action id="Console.TableResult.PreviousPage" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="meta U" />
+    <keyboard-shortcut first-keystroke="shift F9" />
+    <keyboard-shortcut first-keystroke="meta R" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta Y" />
+    <keyboard-shortcut first-keystroke="meta BACK_SPACE" />
+  </action>
+  <action id="EditorSplitLine" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="control B" />
+    <keyboard-shortcut first-keystroke="meta ENTER" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift meta O" />
+    <keyboard-shortcut first-keystroke="shift meta alt N" />
+    <keyboard-shortcut first-keystroke="meta T" />
+  </action>
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="shift meta Y" />
+  </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+    <keyboard-shortcut first-keystroke="meta alt CLOSE_BRACKET" />
+    <keyboard-shortcut first-keystroke="meta alt DOWN" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift alt UP" />
+    <keyboard-shortcut first-keystroke="meta alt OPEN_BRACKET" />
+    <keyboard-shortcut first-keystroke="meta alt UP" />
+  </action>
+  <action id="NextOccurence" />
+  <action id="NextParameter">
+    <keyboard-shortcut first-keystroke="TAB" />
+    <keyboard-shortcut first-keystroke="control SLASH" />
+  </action>
+  <action id="PreviousOccurence" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="control T" />
+    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift F6" />
+    <keyboard-shortcut first-keystroke="control meta E" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift F10" />
+  </action>
+  <action id="SafeDelete">
+    <keyboard-shortcut first-keystroke="meta DELETE" />
+  </action>
+  <action id="Vcs.UpdateProject" />
+  <action id="ViewSource" />
+  <action id="com.intellij.execution.testframework.sm.runner.ui.statistics.ShowTestProxy">
+    <keyboard-shortcut first-keystroke="control meta alt T" />
+  </action>
+</keymap>
+
